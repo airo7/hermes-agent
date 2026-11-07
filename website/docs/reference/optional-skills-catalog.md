@@ -97,6 +97,7 @@ hermes skills uninstall <skill-name>
 | Skill | Description |
 |-------|-------------|
 | [**agentmail**](/docs/user-guide/skills/optional/email/email-agentmail) | Give the agent its own inbox: send and receive email. |
+| [**aws-ses**](/docs/user-guide/skills/optional/email/email-aws-ses) | Amazon SES setup: production access, DKIM/SPF, SMTP creds. |
 
 ## finance
 
